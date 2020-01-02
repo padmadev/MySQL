@@ -1,0 +1,1 @@
+SELECT DISTINCT CITY FROM STATION where city NOT RLIKE '^[aeiou].*[aeiou]$'
