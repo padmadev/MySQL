@@ -3,3 +3,7 @@ create database meow;
 
 //Use Database
 use meow;
+
+//create table
+create table kitty (col1 int);
+
