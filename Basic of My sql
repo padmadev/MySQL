@@ -10,4 +10,6 @@ create table kitty (col1 int);
 //describe database
 desc meow;
 
+//see all the database in your system
+show databases;
 
