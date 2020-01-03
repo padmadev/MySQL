@@ -7,3 +7,7 @@ use meow;
 //create table
 create table kitty (col1 int);
 
+//describe database
+desc meow;
+
+
