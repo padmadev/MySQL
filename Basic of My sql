@@ -1,0 +1,5 @@
+//Create Database
+create database meow;
+
+//Use Database
+use meow;
