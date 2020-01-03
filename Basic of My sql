@@ -13,3 +13,5 @@ desc meow;
 //see all the database in your system
 show databases;
 
+//insert value inside table
+insert into kitty (col1) values (77);
